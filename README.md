@@ -1,4 +1,5 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+create the same design and function as the wordpress aawp plugin
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+
+I'm looking for someone capable of modifying the code to make it adaptable to any site, obviously adding the personal Amazon API keys
+
